@@ -15,5 +15,6 @@
 
 <p float="left">
   <img src="/TotalBillScreen1.png" width="240" />
+   <img src="/TotalBillScreen3.png" width="240" />
   <img src="/TotalBillScreen2.png" width="240" />
 </p>
