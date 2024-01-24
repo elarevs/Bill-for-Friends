@@ -2,7 +2,7 @@
 
 ## About Application
 
-*Share the score with your friends honestly! Add a tip to the bill? It's up to you to decide.*
+*Share the bill with your friends honestly! Add a tip to the bill? It's up to you to decide.*
 
 ## Stack
 
